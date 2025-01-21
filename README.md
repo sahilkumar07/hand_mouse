@@ -19,8 +19,6 @@ This project demonstrates a hand gesture-controlled mouse using a combination of
 - Screen Brightness Control
 - NumPy
 
-    ```
-
 ## Usage
 
 1. Run the main script:
